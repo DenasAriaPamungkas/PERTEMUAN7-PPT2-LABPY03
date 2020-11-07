@@ -15,7 +15,7 @@ Untuk saat ini saya akan mencoba untuk mengerjakan Latihan 1 seperti gambar diba
 
 ![Lat1](https://user-images.githubusercontent.com/72906579/98434023-757f6f80-20fe-11eb-84c8-f932fae7a155.png)
 
-untuk mengerjakannya kalian perlu memasuka sytax berikut 
+untuk mengerjakannya kalian perlu memasukan sytax berikut 
 
 ```python
 import random
@@ -31,7 +31,7 @@ for i in range(jum):
 ```
 Maka hasil yang didapat dari syntax tersebut adalah
 
-![Foto Lat2](https://user-images.githubusercontent.com/72906579/98340266-b19fcb00-203f-11eb-8660-6c72540b8626.png)
+![Jawaban Lat1](https://user-images.githubusercontent.com/72906579/98442996-17bd4880-213b-11eb-85c9-020f57559768.png)
 _______________________________________________________________________________________
 ## LATIHAN 2
 Setelahnya saya akan mencoba untuk mengerjakan Latihan selanjutnya yaitu Latihan 2.
